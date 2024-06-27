@@ -6,12 +6,17 @@ There is a debate within the powerlifting community about whether to pull your d
 ## Visualizations
 ### Slicer
 ![](images/Screenshot%202024-06-27%20112514.png)
+
 The user can use this slicer to pick which weight class they want to see the statistics of. They can choose multiple weight classes to display the chosen classes' combined statistics.
 ### Grip and Stance distribution + Most Popular Combination
 ![](images/Screenshot%202024-06-27%20112534.png)
+
 The pie charts show the percentage of each grip/stance used in the 2024 World Championships and also display the most popular combination of grip and stance used.
 ### Deadlift Impact on Total
 ![](images/Screenshot%202024-06-27%20112553.png)
+
 The stacked bar chart shows how much their deadlifts contributed to their overall total.
 ### Grip Failure Rate
 ![](images/Screenshot%202024-06-27%20112616.png)
+
+Compared the two grip styles and their fail rates, as well as the number of attempts failed due to grip.
